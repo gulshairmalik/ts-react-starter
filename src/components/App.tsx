@@ -12,6 +12,7 @@ export class App extends React.Component<AppProps, {}> {
     return (
       <h1>
         Hello from {this.props.compiler} and {this.props.framework}!
+        Go Typescript!
       </h1>
     )
   }
