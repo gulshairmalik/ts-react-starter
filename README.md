@@ -33,3 +33,18 @@ $ git init
 *   typescript 2.8
 *   webpack 4.x
 *   tslint
+
+## npm scripts
+
+```bash
+# replace 'yarn' with 'npm' if you prefer npm
+
+# linting
+$ yarn run lint
+
+# build
+$ yarn build
+
+# dev-server
+$ yarn start
+```
