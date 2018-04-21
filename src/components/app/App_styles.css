@@ -1,0 +1,20 @@
+.App-container {
+    text-align: center;
+    width: auto;
+    display: block;
+}
+
+.App-header {
+    background-color: lightsteelblue;
+    height: auto;
+    padding: 20px;
+    font-size: 2em;
+    color: #2e2e2e;
+}
+.App-container button {
+    background: lightseagreen;
+    border: 1px solid white;
+    padding: 4px 8px;
+    color: white;
+    font-size: 20px;
+}
